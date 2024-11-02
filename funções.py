@@ -5,7 +5,7 @@ def soma(x, y):
     
 
 
-#print(soma(x = 1000, y = 2000))
+print(soma(x = 1000, y = 2000))
 
 
 def par(numero):
@@ -16,6 +16,8 @@ print(par(4))
 
 def menos(x, y):
     return x - y
+# argumento da esquerda é obrigatório
+# argumento da direita é facultativo
 
 
 print(menos(3,5))

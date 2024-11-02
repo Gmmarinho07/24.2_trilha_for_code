@@ -1,6 +1,6 @@
-texto = """ Python é um linguageem de programação de alto nível."""
+texto = """ Python é um linguagem de programação de alto nível."""
 
-novo_texto = ''
+novo_texto = " "
 lista_de_palavras = texto.split(' ')
 
 for indice in range(len(lista_de_palavras)):

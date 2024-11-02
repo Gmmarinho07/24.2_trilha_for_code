@@ -1,6 +1,4 @@
 import random
-
-#def jogar():
 opcoes = ["pedra", "papel", "tesoura"]
 vitorias_jogador = 0
 vitorias_computador = 0
